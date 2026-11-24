@@ -47,6 +47,7 @@ network access. To add Onyou Office as an MCP server, run
 
 - Website: <https://onyouoffice.com>
 - Privacy: <https://onyouoffice.com/en/privacy/>
+- Terms: <https://onyouoffice.com/en/terms/>
 - Source and issues: <https://github.com/onyouoffice/onyouoffice>
 - Support: support@onyouoffice.com
 

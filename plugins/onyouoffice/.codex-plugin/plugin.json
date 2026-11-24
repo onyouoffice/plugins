@@ -37,6 +37,7 @@
       "Build a budget spreadsheet from this CSV with totals"
     ],
     "brandColor": "#0F7FFF",
-    "screenshots": []
+    "screenshots": [],
+    "termsOfServiceURL": "https://onyouoffice.com/en/terms/"
   }
 }
