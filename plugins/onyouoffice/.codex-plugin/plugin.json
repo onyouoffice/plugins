@@ -24,12 +24,13 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Onyou Office",
-    "shortDescription": "Make and edit real Office files on your computer",
-    "longDescription": "Build slide decks, spreadsheets, Word and Hangul (HWP) documents, convert between formats and edit existing files with structured changes. Documents are processed on your computer by the free, open-source Onyou Office desktop app, which must be installed first.",
+    "shortDescription": "Real Office files on your PC",
+    "longDescription": "Build slide decks, spreadsheets, Word and Hangul (HWP) documents, convert between formats and edit existing files with structured changes. Documents are processed on your computer by the open-source Onyou Office desktop app, which must be installed first.",
     "developerName": "Onyou Office",
     "category": "Productivity",
     "capabilities": ["Read", "Write"],
     "websiteURL": "https://onyouoffice.com",
+    "supportURL": "https://onyouoffice.com/en/help/contact/",
     "privacyPolicyURL": "https://onyouoffice.com/en/privacy/",
     "logo": "./assets/icon.png",
     "defaultPrompt": [
