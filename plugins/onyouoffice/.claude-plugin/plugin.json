@@ -1,5 +1,6 @@
 {
   "name": "onyouoffice",
+  "displayName": "Onyou Office",
   "version": "2.80.1",
   "description": "Create, convert, read and edit Word, Excel, PowerPoint, PDF and Hangul (HWP) documents locally with Onyou Office. Requires the Onyou Office desktop app.",
   "author": {
@@ -9,6 +10,9 @@
   },
   "homepage": "https://onyouoffice.com",
   "repository": "https://github.com/onyouoffice/onyouoffice",
+  "documentationUrl": "https://onyouoffice.com/en/help/",
+  "supportUrl": "https://github.com/onyouoffice/onyouoffice/issues",
+  "privacyPolicyUrl": "https://onyouoffice.com/en/privacy/",
   "license": "Apache-2.0",
   "keywords": [
     "office",
