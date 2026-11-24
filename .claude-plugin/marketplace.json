@@ -1,0 +1,20 @@
+{
+  "name": "onyouoffice",
+  "owner": {
+    "name": "Onyou Office",
+    "email": "support@onyouoffice.com"
+  },
+  "metadata": {
+    "description": "Onyou Office plugins for coding agents"
+  },
+  "plugins": [
+    {
+      "name": "onyouoffice",
+      "source": "./plugins/onyouoffice",
+      "description": "Create, convert, read and edit Word, Excel, PowerPoint, PDF and Hangul (HWP) documents locally with Onyou Office. Requires the Onyou Office desktop app.",
+      "version": "2.80.1",
+      "category": "productivity",
+      "homepage": "https://onyouoffice.com"
+    }
+  ]
+}

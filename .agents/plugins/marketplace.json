@@ -1,0 +1,12 @@
+{
+  "name": "onyouoffice",
+  "interface": { "displayName": "Onyou Office" },
+  "plugins": [
+    {
+      "name": "onyouoffice",
+      "source": { "source": "local", "path": "./plugins/onyouoffice" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
