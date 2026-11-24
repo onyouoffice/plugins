@@ -28,6 +28,7 @@
     "longDescription": "Build slide decks, spreadsheets, Word and Hangul (HWP) documents, convert between formats and edit existing files with structured changes. Documents are processed on your computer by the free, open-source Onyou Office desktop app, which must be installed first.",
     "developerName": "Onyou Office",
     "category": "Productivity",
+    "capabilities": ["Read", "Write"],
     "websiteURL": "https://onyouoffice.com",
     "privacyPolicyURL": "https://onyouoffice.com/en/privacy/",
     "logo": "./assets/icon.png",
@@ -37,7 +38,7 @@
       "Build a budget spreadsheet from this CSV with totals"
     ],
     "brandColor": "#0F7FFF",
-    "screenshots": [],
-    "termsOfServiceURL": "https://onyouoffice.com/en/terms/"
+    "termsOfServiceURL": "https://onyouoffice.com/en/terms/",
+    "composerIcon": "./assets/icon.png"
   }
 }
